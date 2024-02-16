@@ -1,0 +1,1 @@
+I will be able to read and write as well since the mode is 'r+'
